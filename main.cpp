@@ -1,4 +1,6 @@
-ub-e intermediate commit
+master commit
+it is very much expected to be pushed
+as all commits from branch-merge branch
 <<<<<<< HEAD
 ub-d
 =======
